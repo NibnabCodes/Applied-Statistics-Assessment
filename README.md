@@ -4,7 +4,7 @@ This repository contains my submission for the *Applied Statistics* module at At
 
 ## Quick look
 
-- You can click on [probkems.ipynb] in this repository & GitHub will display it in static format.
+- You can click on [problems.ipynb] in this repository & GitHub will display it in static format.
 - You can view & run the notebook in [Google Colab]().
 - You can view the notebook using [nbviewer]() also. 
 
