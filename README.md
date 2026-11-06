@@ -1,6 +1,6 @@
 # Assesment Submission for Applied Statistics module
 
-This repository contains my submission for the *Applied Statistics* module at Atlantic Technological University - Galway. The project is written in Python, in a single Jupyter notebook. Everything needed to run the notebook is included in this repository.
+This repository contains my submission for the *Applied Statistics* module at Atlantic Technological University - Galway. The project is written in Python, in a single Jupyter notebook. Everything needed to run the notebook is included in this repository. Developed with Python 3.12.4
 
 ## Quick look
 
